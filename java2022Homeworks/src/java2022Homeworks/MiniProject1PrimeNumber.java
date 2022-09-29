@@ -6,7 +6,7 @@ public class MiniProject1PrimeNumber {
 		int number = -5;
 		int counter = 0;
 
-		// My first algorithm
+		//My first algorithm
 		for (int i = 2; i < number; i++) {
 			if (number % i == 0) {
 				counter = counter + 1;
@@ -23,7 +23,7 @@ public class MiniProject1PrimeNumber {
 			System.out.println(number + " is prime number ");
 		}
 
-		// My second algorithm
+		//My second algorithm
 		boolean isPrime = true;
 
 		for (int i = 2; i < number; i++) {
