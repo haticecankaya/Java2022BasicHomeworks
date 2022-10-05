@@ -1,4 +1,4 @@
-package java2022Homeworks;
+package java2022BasicHomeworks;
 
 public class Variables {
     
